@@ -1,13 +1,15 @@
 /Brd/History
-
 /Brd/__Previews
-
 /CfgMSEL.PNG
-
 /MSEL_table.JPG
-
 /MSEL_table.PNG
 
+*.PrjPCBStructure
+*.PrjPcbStructure
 
+*.SchDocPreview
+*.PcbDocPreview
+Project Outputs for *
+Project Logs for *
 
 
